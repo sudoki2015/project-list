@@ -7,6 +7,7 @@
 ## NodeJS
 * [Bitwarden Command-line Interface](https://github.com/bitwarden/cli) - The Bitwarden CLI is a powerful, full-featured command-line interface (CLI) tool to access and manage a Bitwarden vault. The CLI is written with TypeScript and Node.js and can be run on Windows, macOS, and Linux distributions.
 * [Ghost](https://github.com/TryGhost/Ghost) - The #1 headless Node.js CMS for professional publishing
+* [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool.
 ## Go
 * [talos](https://github.com/talos-systems/talos) - Talos is a modern OS for Kubernetes.
 * [magma](https://github.com/magma/magma) - Platform for building access networks and modular network services.
@@ -18,6 +19,7 @@
 * [mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source, self-hosted Slack-alternative from [https://mattermost.org](https://mattermost.org). 
 * [mmctl](https://github.com/mattermost/mmctl) - A remote CLI tool for Mattermost: the Open Source, self-hosted Slack-alternative.
 * [mattermost-plugin-incident-collaboration](https://github.com/mattermost/mattermost-plugin-incident-collaboration) - Incident collaboration plugin for Mattermost
+* [grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 ## React
 * [rc-table](https://github.com/react-component/table) - React table component with useful functions.
 * [giraffe](https://github.com/influxdata/giraffe) - A foundation for visualizations in the InfluxDB UI
@@ -29,10 +31,12 @@
 ## Redux
 * [mattermost-redux](https://github.com/mattermost/mattermost-redux) - Redux for Mattermost 
 ## Angular
+* [altair](https://github.com/imolorhe/altair) - Altair is a beautiful feature-rich GraphQL Client IDE for all platforms.
 ## Xamarin
 * [Bitwarden Mobile Application](https://github.com/bitwarden/mobile) - The Bitwarden mobile application is written in C# with Xamarin Android, Xamarin iOS, and Xamarin Forms.
 ## C#
 * [The Bitwarden Server](https://github.com/bitwarden/server) - The Bitwarden Server project contains the APIs, database, and other core infrastructure items needed for the "backend" of all bitwarden client applications.
+* [eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) - Sample ASP.NET Core 5.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model.
 ## Electron
 * [Bitwarden Desktop Application](https://github.com/bitwarden/desktop) - The Bitwarden desktop app is written using Electron and Angular. The application installs on Windows, macOS, and Linux distributions.
 * [Bitwarden Directory Connector](https://github.com/bitwarden/directory-connector) - The Bitwarden Directory Connector is a a desktop application used to sync your Bitwarden enterprise organization to an existing directory of users and groups.
