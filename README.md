@@ -11,6 +11,11 @@
 * [hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
 * [wrike-graphql](https://github.com/nodkz/wrike-graphql) - Wrap REST API with GraphQL
 * [moleculer](https://github.com/moleculerjs/moleculer) - Progressive microservices framework for Node.js
+* [cockatiel](https://github.com/connor4312/cockatiel) - A resilience and transient-fault-handling library that allows developers to express policies such as Backoff, Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback. Inspired by .NET Polly.
+* [botpress](https://github.com/botpress/botpress) - The Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and Dialog Manager (DM). Easily create chatbots and AI-based virtual assistants.
+* [coralproject/talk](https://github.com/coralproject/talk) - A better commenting experience from Vox Media
+* [nestjs-bff](https://github.com/ablestack/nestjs-bff) - A full-stack TypeScript solution, and starter project. Includes an API, CLI, and example client webapp. Features include production grade logging, authorization, authentication, MongoDB migrations, and end-to-end testing.
+* [nest-permissions-seed](https://github.com/EndyKaufman/nest-permissions-seed) - A simple application demonstrating the basic usage of permissions with NestJS.
 ## Go
 * [talos](https://github.com/talos-systems/talos) - Talos is a modern OS for Kubernetes.
 * [magma](https://github.com/magma/magma) - Platform for building access networks and modular network services.
@@ -43,6 +48,11 @@
 * [react-dropdown-tree-select](https://github.com/dowjones/react-dropdown-tree-select) - Lightweight, accessible, customizable and fast Dropdown Tree Select component for React
 * [react-crm](https://github.com/harryho/react-crm) - A reusable CRM project for real-world business based on React 16, Redux & Material-UI 4
 * [telegram-react](https://github.com/evgeny-nadymov/telegram-react) - Experimental Telegram web client with tdlib, webassembly and react js under the hood
+* [react-google-flight-datepicker](https://github.com/JSLancerTeam/react-google-flight-datepicker) - React date picker inspired by Google Flight
+* [fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar
+* [airbnb/visx](https://github.com/airbnb/visx) - visx is a collection of reusable low-level visualization components. visx combines the power of d3 to generate your visualization with the benefits of react for updating the DOM.
+* [react-share](https://github.com/nygardk/react-share) - Social media share buttons and share counts for React
+* [coralproject/talk](https://github.com/coralproject/talk) - A better commenting experience from Vox Media
 ## React Native
 * [mattermost-mobile](https://github.com/mattermost/mattermost-mobile) - Next generation iOS and Android apps for Mattermost in React Native
 ## Redux
@@ -55,10 +65,14 @@
 ## C#
 * [The Bitwarden Server](https://github.com/bitwarden/server) - The Bitwarden Server project contains the APIs, database, and other core infrastructure items needed for the "backend" of all bitwarden client applications.
 * [eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) - Sample ASP.NET Core 5.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model.
+* [Enterprise-Architect-Add-in-Framework](https://github.com/GeertBellekens/Enterprise-Architect-Add-in-Framework) - Framework for add-ins on Sparx Systems Enterprise Architect
+* [clean-architecture-demo](https://github.com/matthewrenze/clean-architecture-demo) - A sample app for my presentation on Clean Architecture: Patterns, Practices, and Principles
+* [telegram-wp](https://github.com/evgeny-nadymov/telegram-wp) - Telegram Messenger for Windows Phone
 ## Electron
 * [Bitwarden Desktop Application](https://github.com/bitwarden/desktop) - The Bitwarden desktop app is written using Electron and Angular. The application installs on Windows, macOS, and Linux distributions.
 * [Bitwarden Directory Connector](https://github.com/bitwarden/directory-connector) - The Bitwarden Directory Connector is a a desktop application used to sync your Bitwarden enterprise organization to an existing directory of users and groups.
 * [Mattermost Desktop](https://github.com/mattermost/desktop) - Mattermost Desktop application for Windows, Mac and Linux
+* [marktext](https://github.com/marktext/marktext) - A simple and elegant markdown editor, available for Linux, macOS and Windows.
 ## Docker
 * [mattermost-docker](https://github.com/mattermost/mattermost-docker) - Dockerfile for mattermost in production
 ## Cloud
