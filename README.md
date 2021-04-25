@@ -25,13 +25,18 @@
 * [giraffe](https://github.com/influxdata/giraffe) - A foundation for visualizations in the InfluxDB UI
 * [UI for InfluxDB](https://github.com/influxdata/ui) - UI for InfluxDB
 * [clockface](https://github.com/influxdata/clockface) - UI Kit for building Chronograf
-* [mattermost-webapp](https://github.com/mattermost/mattermost-webapp) - Mattermost is an open source, self-hosted Slack-alternative from [https://mattermost.org](https://mattermost.org). 
+* [mattermost-webapp](https://github.com/mattermost/mattermost-webapp) - Mattermost is an open source, self-hosted Slack-alternative from [https://mattermost.org](https://mattermost.org).
+* [react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams
+* [reactgrid](https://github.com/silevis/reactgrid) - Add spreadsheet-like behavior to your React app
+* [react-chrono](https://github.com/prabhuignoto/react-chrono) - Modern Timeline component for React
+* [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 ## React Native
 * [mattermost-mobile](https://github.com/mattermost/mattermost-mobile) - Next generation iOS and Android apps for Mattermost in React Native
 ## Redux
 * [mattermost-redux](https://github.com/mattermost/mattermost-redux) - Redux for Mattermost 
 ## Angular
 * [altair](https://github.com/imolorhe/altair) - Altair is a beautiful feature-rich GraphQL Client IDE for all platforms.
+* [teammates](https://github.com/TEAMMATES/teammates) - This is the project website for the TEAMMATES feedback management tool for education
 ## Xamarin
 * [Bitwarden Mobile Application](https://github.com/bitwarden/mobile) - The Bitwarden mobile application is written in C# with Xamarin Android, Xamarin iOS, and Xamarin Forms.
 ## C#
@@ -47,3 +52,5 @@
 * [mattermost-cloud](https://github.com/mattermost/mattermost-cloud) - Tools and services for running Mattermost Cloud
 ## Java
 * [Mindustry](https://github.com/Anuken/Mindustry) - A sandbox tower defense game written in Java.
+## C++
+* [TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore is a MMORPG Framework based mostly in C++.
