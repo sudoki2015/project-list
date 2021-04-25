@@ -8,6 +8,9 @@
 * [Bitwarden Command-line Interface](https://github.com/bitwarden/cli) - The Bitwarden CLI is a powerful, full-featured command-line interface (CLI) tool to access and manage a Bitwarden vault. The CLI is written with TypeScript and Node.js and can be run on Windows, macOS, and Linux distributions.
 * [Ghost](https://github.com/TryGhost/Ghost) - The #1 headless Node.js CMS for professional publishing
 * [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool.
+* [hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
+* [wrike-graphql](https://github.com/nodkz/wrike-graphql) - Wrap REST API with GraphQL
+* [moleculer](https://github.com/moleculerjs/moleculer) - Progressive microservices framework for Node.js
 ## Go
 * [talos](https://github.com/talos-systems/talos) - Talos is a modern OS for Kubernetes.
 * [magma](https://github.com/magma/magma) - Platform for building access networks and modular network services.
@@ -20,6 +23,10 @@
 * [mmctl](https://github.com/mattermost/mmctl) - A remote CLI tool for Mattermost: the Open Source, self-hosted Slack-alternative.
 * [mattermost-plugin-incident-collaboration](https://github.com/mattermost/mattermost-plugin-incident-collaboration) - Incident collaboration plugin for Mattermost
 * [grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
+## javaScript
+* [uPlot](https://github.com/leeoniya/uPlot) - A small, fast chart for time series, lines, areas, ohlc & bars
+* [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
+* [jspreadsheet/ce](https://github.com/jspreadsheet/ce) - Jspreadsheet is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with other spreadsheet software.
 ## React
 * [rc-table](https://github.com/react-component/table) - React table component with useful functions.
 * [giraffe](https://github.com/influxdata/giraffe) - A foundation for visualizations in the InfluxDB UI
@@ -30,6 +37,12 @@
 * [reactgrid](https://github.com/silevis/reactgrid) - Add spreadsheet-like behavior to your React app
 * [react-chrono](https://github.com/prabhuignoto/react-chrono) - Modern Timeline component for React
 * [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
+* [ui-kit](https://github.com/commercetools/ui-kit) - The UI Kit is a set of React components that follows commercetools Design System.
+* [geist-org/react](https://github.com/geist-org/react) - Modern and minimalist React UI library.
+* [sqlpad](https://github.com/sqlpad/sqlpad) - Web-based SQL editor run in your own private cloud. Supports MySQL, Postgres, SQL Server, Vertica, Crate, ClickHouse, Trino, Presto, SAP HANA, Cassandra, Snowflake, BigQuery, SQLite, and more with ODBC
+* [react-dropdown-tree-select](https://github.com/dowjones/react-dropdown-tree-select) - Lightweight, accessible, customizable and fast Dropdown Tree Select component for React
+* [react-crm](https://github.com/harryho/react-crm) - A reusable CRM project for real-world business based on React 16, Redux & Material-UI 4
+* [telegram-react](https://github.com/evgeny-nadymov/telegram-react) - Experimental Telegram web client with tdlib, webassembly and react js under the hood
 ## React Native
 * [mattermost-mobile](https://github.com/mattermost/mattermost-mobile) - Next generation iOS and Android apps for Mattermost in React Native
 ## Redux
