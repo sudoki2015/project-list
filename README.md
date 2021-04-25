@@ -24,6 +24,9 @@
 * [NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 * [tsed](https://github.com/TypedProject/tsed) - Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6).
 * [Twake](https://github.com/linagora/Twake) - Twake is a secure open source collaboration platform to improve organizational productivity.
+* [gitbeaker](https://github.com/jdalrymple/gitbeaker) - GitLab API NodeJS library with full support of all the Gitlab API services.
+* [strapi](https://github.com/strapi/strapi) - Open source Node.js Headless CMS to easily build customisable APIs
+* [nodejs-typescript-expressjs-inversify-ioc-graphql-starter](https://github.com/4name/nodejs-typescript-expressjs-inversify-ioc-graphql-starter) - Starter project for TS with IOC and based on modern waves.
 ## Go
 * [talos](https://github.com/talos-systems/talos) - Talos is a modern OS for Kubernetes.
 * [magma](https://github.com/magma/magma) - Platform for building access networks and modular network services.
@@ -40,6 +43,10 @@
 * [uPlot](https://github.com/leeoniya/uPlot) - A small, fast chart for time series, lines, areas, ohlc & bars
 * [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
 * [jspreadsheet/ce](https://github.com/jspreadsheet/ce) - Jspreadsheet is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with other spreadsheet software.
+* [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - Interactive JavaScript Charts built on SVG
+* [charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
+* [instagib.io](https://github.com/schibir/instagib.io) - Online 2D shooter
+* [britecharts](https://github.com/britecharts/britecharts) - Client-side reusable Charting Library based on D3.js v5 that allows easy and intuitive use of charts and components that can be composed together creating amazing visualizations.
 ## React
 * [rc-table](https://github.com/react-component/table) - React table component with useful functions.
 * [giraffe](https://github.com/influxdata/giraffe) - A foundation for visualizations in the InfluxDB UI
@@ -63,6 +70,10 @@
 * [coralproject/talk](https://github.com/coralproject/talk) - A better commenting experience from Vox Media
 * [react-graphql-github-apollo](https://github.com/the-road-to-graphql/react-graphql-github-apollo) - A React + Apollo + GraphQL GitHub Client. Your opportunity to learn about these technologies in a real world application.
 * [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The ultimate Free Open Source Solution for team communications.
+* [react-mosaic](https://github.com/nomcopter/react-mosaic) - A React tiling window manager
+* [react-virtuoso](https://github.com/petyosi/react-virtuoso) - The most powerful virtual list component for React
+* [evergreen](https://github.com/segmentio/evergreen) - Evergreen React UI Framework by Segment
+* [fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 ## Preact
 * [Rocket.Chat.Livechat](https://github.com/RocketChat/Rocket.Chat.Livechat) - New Livechat client written in Preact
 ## Flutter
@@ -70,12 +81,17 @@
 ## React Native
 * [mattermost-mobile](https://github.com/mattermost/mattermost-mobile) - Next generation iOS and Android apps for Mattermost in React Native
 * [Rocket.Chat.ReactNative](https://github.com/RocketChat/Rocket.Chat.ReactNative) - Rocket.Chat mobile clients
+* [react-native-redux-crypto-tracker](https://github.com/indreklasn/react-native-redux-crypto-tracker) - Learn how to build a Redux + React Native cryptocurrency app
 ## Redux
 * [mattermost-redux](https://github.com/mattermost/mattermost-redux) - Redux for Mattermost 
 ## Angular
 * [altair](https://github.com/imolorhe/altair) - Altair is a beautiful feature-rich GraphQL Client IDE for all platforms.
 * [teammates](https://github.com/TEAMMATES/teammates) - This is the project website for the TEAMMATES feedback management tool for education
 * [ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
+* [angular-ngrx-material-starter](https://github.com/tomastrajan/angular-ngrx-material-starter) - Angular, NgRx, Angular CLI & Angular Material Starter Project
+* [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd) - Angular UI Component Library based on Ant Design
+## Vue
+* [office-ui-fabric-vue](https://github.com/aidewoode/office-ui-fabric-vue) - Office UI Fabric implementation for Vue.js
 ## Xamarin
 * [Bitwarden Mobile Application](https://github.com/bitwarden/mobile) - The Bitwarden mobile application is written in C# with Xamarin Android, Xamarin iOS, and Xamarin Forms.
 ## C#
@@ -85,6 +101,7 @@
 * [clean-architecture-demo](https://github.com/matthewrenze/clean-architecture-demo) - A sample app for my presentation on Clean Architecture: Patterns, Practices, and Principles
 * [telegram-wp](https://github.com/evgeny-nadymov/telegram-wp) - Telegram Messenger for Windows Phone
 * [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 5, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
+* [Emby](https://github.com/MediaBrowser/Emby) - Emby Server is a personal media server with apps on just about every device.
 ## Electron
 * [Bitwarden Desktop Application](https://github.com/bitwarden/desktop) - The Bitwarden desktop app is written using Electron and Angular. The application installs on Windows, macOS, and Linux distributions.
 * [Bitwarden Directory Connector](https://github.com/bitwarden/directory-connector) - The Bitwarden Directory Connector is a a desktop application used to sync your Bitwarden enterprise organization to an existing directory of users and groups.
@@ -99,3 +116,6 @@
 * [Mindustry](https://github.com/Anuken/Mindustry) - A sandbox tower defense game written in Java.
 ## C++
 * [TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore is a MMORPG Framework based mostly in C++.
+* [mangos-classic](https://github.com/cmangos/mangos-classic) - C(ontinued)-MaNGOS (Classic fork) is about: -- Doing WoW-Emulation Right!
+* [mangoszero/server](https://github.com/mangoszero/server) - Mangos ZERO is a server for World of Warcraft.
+* [SkyFire_548](https://github.com/ProjectSkyfire/SkyFire_548) - SkyFireEMU is a full featured World of Warcraft: Mists of Pandaria emulator written in C++.
