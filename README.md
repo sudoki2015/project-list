@@ -16,6 +16,14 @@
 * [coralproject/talk](https://github.com/coralproject/talk) - A better commenting experience from Vox Media
 * [nestjs-bff](https://github.com/ablestack/nestjs-bff) - A full-stack TypeScript solution, and starter project. Includes an API, CLI, and example client webapp. Features include production grade logging, authorization, authentication, MongoDB migrations, and end-to-end testing.
 * [nest-permissions-seed](https://github.com/EndyKaufman/nest-permissions-seed) - A simple application demonstrating the basic usage of permissions with NestJS.
+* [apollo-universal-starter-kit](https://github.com/sysgears/apollo-universal-starter-kit) - Apollo Universal Starter Kit is an SEO-friendly, fully-configured, modular starter application that helps developers to streamline web, server, and mobile development with cutting-edge technologies and ultimate code reuse.
+* [nxplorerjs-microservice-starter](https://github.com/ERS-HCL/nxplorerjs-microservice-starter) - Node JS , Typescript , Express based reactive microservice starter project for REST and GraphQL APIs
+* [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The ultimate Free Open Source Solution for team communications.
+* [Rocket.Chat.Apps-engine](https://github.com/RocketChat/Rocket.Chat.Apps-engine) - The Rocket.Chat Apps engine and definitions.
+* [kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
+* [NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
+* [tsed](https://github.com/TypedProject/tsed) - Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6).
+* [Twake](https://github.com/linagora/Twake) - Twake is a secure open source collaboration platform to improve organizational productivity.
 ## Go
 * [talos](https://github.com/talos-systems/talos) - Talos is a modern OS for Kubernetes.
 * [magma](https://github.com/magma/magma) - Platform for building access networks and modular network services.
@@ -53,13 +61,21 @@
 * [airbnb/visx](https://github.com/airbnb/visx) - visx is a collection of reusable low-level visualization components. visx combines the power of d3 to generate your visualization with the benefits of react for updating the DOM.
 * [react-share](https://github.com/nygardk/react-share) - Social media share buttons and share counts for React
 * [coralproject/talk](https://github.com/coralproject/talk) - A better commenting experience from Vox Media
+* [react-graphql-github-apollo](https://github.com/the-road-to-graphql/react-graphql-github-apollo) - A React + Apollo + GraphQL GitHub Client. Your opportunity to learn about these technologies in a real world application.
+* [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The ultimate Free Open Source Solution for team communications.
+## Preact
+* [Rocket.Chat.Livechat](https://github.com/RocketChat/Rocket.Chat.Livechat) - New Livechat client written in Preact
+## Flutter
+* [Twake-Mobile](https://github.com/linagora/Twake-Mobile) - Twake mobile application
 ## React Native
 * [mattermost-mobile](https://github.com/mattermost/mattermost-mobile) - Next generation iOS and Android apps for Mattermost in React Native
+* [Rocket.Chat.ReactNative](https://github.com/RocketChat/Rocket.Chat.ReactNative) - Rocket.Chat mobile clients
 ## Redux
 * [mattermost-redux](https://github.com/mattermost/mattermost-redux) - Redux for Mattermost 
 ## Angular
 * [altair](https://github.com/imolorhe/altair) - Altair is a beautiful feature-rich GraphQL Client IDE for all platforms.
 * [teammates](https://github.com/TEAMMATES/teammates) - This is the project website for the TEAMMATES feedback management tool for education
+* [ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
 ## Xamarin
 * [Bitwarden Mobile Application](https://github.com/bitwarden/mobile) - The Bitwarden mobile application is written in C# with Xamarin Android, Xamarin iOS, and Xamarin Forms.
 ## C#
@@ -68,11 +84,13 @@
 * [Enterprise-Architect-Add-in-Framework](https://github.com/GeertBellekens/Enterprise-Architect-Add-in-Framework) - Framework for add-ins on Sparx Systems Enterprise Architect
 * [clean-architecture-demo](https://github.com/matthewrenze/clean-architecture-demo) - A sample app for my presentation on Clean Architecture: Patterns, Practices, and Principles
 * [telegram-wp](https://github.com/evgeny-nadymov/telegram-wp) - Telegram Messenger for Windows Phone
+* [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 5, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
 ## Electron
 * [Bitwarden Desktop Application](https://github.com/bitwarden/desktop) - The Bitwarden desktop app is written using Electron and Angular. The application installs on Windows, macOS, and Linux distributions.
 * [Bitwarden Directory Connector](https://github.com/bitwarden/directory-connector) - The Bitwarden Directory Connector is a a desktop application used to sync your Bitwarden enterprise organization to an existing directory of users and groups.
 * [Mattermost Desktop](https://github.com/mattermost/desktop) - Mattermost Desktop application for Windows, Mac and Linux
 * [marktext](https://github.com/marktext/marktext) - A simple and elegant markdown editor, available for Linux, macOS and Windows.
+* [Rocket.Chat.Electron](https://github.com/RocketChat/Rocket.Chat.Electron) - Official OSX, Windows, and Linux Desktop Clients for Rocket.Chat
 ## Docker
 * [mattermost-docker](https://github.com/mattermost/mattermost-docker) - Dockerfile for mattermost in production
 ## Cloud
