@@ -27,6 +27,7 @@
 * [gitbeaker](https://github.com/jdalrymple/gitbeaker) - GitLab API NodeJS library with full support of all the Gitlab API services.
 * [strapi](https://github.com/strapi/strapi) - Open source Node.js Headless CMS to easily build customisable APIs
 * [nodejs-typescript-expressjs-inversify-ioc-graphql-starter](https://github.com/4name/nodejs-typescript-expressjs-inversify-ioc-graphql-starter) - Starter project for TS with IOC and based on modern waves.
+* [growthbook](https://github.com/growthbook/growthbook) - The Open Source A/B Testing Platform
 ## Go
 * [talos](https://github.com/talos-systems/talos) - Talos is a modern OS for Kubernetes.
 * [magma](https://github.com/magma/magma) - Platform for building access networks and modular network services.
@@ -39,7 +40,7 @@
 * [mmctl](https://github.com/mattermost/mmctl) - A remote CLI tool for Mattermost: the Open Source, self-hosted Slack-alternative.
 * [mattermost-plugin-incident-collaboration](https://github.com/mattermost/mattermost-plugin-incident-collaboration) - Incident collaboration plugin for Mattermost
 * [grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-## javaScript
+## JavaScript
 * [uPlot](https://github.com/leeoniya/uPlot) - A small, fast chart for time series, lines, areas, ohlc & bars
 * [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
 * [jspreadsheet/ce](https://github.com/jspreadsheet/ce) - Jspreadsheet is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with other spreadsheet software.
@@ -74,6 +75,10 @@
 * [react-virtuoso](https://github.com/petyosi/react-virtuoso) - The most powerful virtual list component for React
 * [evergreen](https://github.com/segmentio/evergreen) - Evergreen React UI Framework by Segment
 * [fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
+* [react-data-table-component](https://github.com/jbetancur/react-data-table-component) - A responsive table library with built-in sorting, pagination, selection, expandable rows, and customizable styling.
+* [baseweb](https://github.com/uber/baseweb) - A React Component library implementing the Base design language
+* [evergreen](https://github.com/segmentio/evergreen) - Evergreen React UI Framework by Segment
+* [rooks](https://github.com/imbhargav5/rooks) - Essential React custom hooks ⚓ to super charge your components!
 ## Preact
 * [Rocket.Chat.Livechat](https://github.com/RocketChat/Rocket.Chat.Livechat) - New Livechat client written in Preact
 ## Flutter
@@ -92,6 +97,10 @@
 * [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd) - Angular UI Component Library based on Ant Design
 ## Vue
 * [office-ui-fabric-vue](https://github.com/aidewoode/office-ui-fabric-vue) - Office UI Fabric implementation for Vue.js
+* [vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
+* [chat-application](https://github.com/exoplatform/chat-application) - Chat application
+* [primevue](https://github.com/primefaces/primevue) - The Most Complete Vue UI Component Library
+* [vue-advanced-chat](https://github.com/antoine92190/vue-advanced-chat) - A beautiful chat rooms component made with Vue.js - compatible with Vue, React & Angular
 ## Xamarin
 * [Bitwarden Mobile Application](https://github.com/bitwarden/mobile) - The Bitwarden mobile application is written in C# with Xamarin Android, Xamarin iOS, and Xamarin Forms.
 ## C#
