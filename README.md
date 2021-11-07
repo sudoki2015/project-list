@@ -28,6 +28,7 @@
 * [strapi](https://github.com/strapi/strapi) - Open source Node.js Headless CMS to easily build customisable APIs
 * [nodejs-typescript-expressjs-inversify-ioc-graphql-starter](https://github.com/4name/nodejs-typescript-expressjs-inversify-ioc-graphql-starter) - Starter project for TS with IOC and based on modern waves.
 * [growthbook](https://github.com/growthbook/growthbook) - The Open Source A/B Testing Platform
+* [objection.js](https://github.com/Vincit/objection.js) - An SQL-friendly ORM for Node.js
 ## Go
 * [talos](https://github.com/talos-systems/talos) - Talos is a modern OS for Kubernetes.
 * [magma](https://github.com/magma/magma) - Platform for building access networks and modular network services.
@@ -40,7 +41,7 @@
 * [mmctl](https://github.com/mattermost/mmctl) - A remote CLI tool for Mattermost: the Open Source, self-hosted Slack-alternative.
 * [mattermost-plugin-incident-collaboration](https://github.com/mattermost/mattermost-plugin-incident-collaboration) - Incident collaboration plugin for Mattermost
 * [grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-## JavaScript
+## JavaScript / TypeScript
 * [uPlot](https://github.com/leeoniya/uPlot) - A small, fast chart for time series, lines, areas, ohlc & bars
 * [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
 * [jspreadsheet/ce](https://github.com/jspreadsheet/ce) - Jspreadsheet is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with other spreadsheet software.
@@ -48,6 +49,8 @@
 * [charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 * [instagib.io](https://github.com/schibir/instagib.io) - Online 2D shooter
 * [britecharts](https://github.com/britecharts/britecharts) - Client-side reusable Charting Library based on D3.js v5 that allows easy and intuitive use of charts and components that can be composed together creating amazing visualizations.
+* [swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
+* [dnd-kit](https://github.com/clauderic/dnd-kit) - A modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
 ## React
 * [rc-table](https://github.com/react-component/table) - React table component with useful functions.
 * [giraffe](https://github.com/influxdata/giraffe) - A foundation for visualizations in the InfluxDB UI
@@ -79,6 +82,9 @@
 * [baseweb](https://github.com/uber/baseweb) - A React Component library implementing the Base design language
 * [evergreen](https://github.com/segmentio/evergreen) - Evergreen React UI Framework by Segment
 * [rooks](https://github.com/imbhargav5/rooks) - Essential React custom hooks ⚓ to super charge your components!
+* [refine](https://github.com/pankod/refine) - It ships with Ant Design System, an enterprise-level UI toolkit.
+* [reaviz](https://github.com/reaviz/reaviz) - Data visualization library for React
+* [react-spreadsheet](https://github.com/iddan/react-spreadsheet) - Simple, customizable yet performant spreadsheet for React
 ## Preact
 * [Rocket.Chat.Livechat](https://github.com/RocketChat/Rocket.Chat.Livechat) - New Livechat client written in Preact
 ## Flutter
@@ -101,6 +107,7 @@
 * [chat-application](https://github.com/exoplatform/chat-application) - Chat application
 * [primevue](https://github.com/primefaces/primevue) - The Most Complete Vue UI Component Library
 * [vue-advanced-chat](https://github.com/antoine92190/vue-advanced-chat) - A beautiful chat rooms component made with Vue.js - compatible with Vue, React & Angular
+* [element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
 ## Xamarin
 * [Bitwarden Mobile Application](https://github.com/bitwarden/mobile) - The Bitwarden mobile application is written in C# with Xamarin Android, Xamarin iOS, and Xamarin Forms.
 ## C#
