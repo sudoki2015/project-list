@@ -85,6 +85,8 @@
 * [refine](https://github.com/pankod/refine) - It ships with Ant Design System, an enterprise-level UI toolkit.
 * [reaviz](https://github.com/reaviz/reaviz) - Data visualization library for React
 * [react-spreadsheet](https://github.com/iddan/react-spreadsheet) - Simple, customizable yet performant spreadsheet for React
+* [react-spreadsheet-grid](https://github.com/denisraslov/react-spreadsheet-grid) - An Excel-like grid component for React with custom cell editors, performant scroll & resizable columns
+* [mantine](https://github.com/mantinedev/mantine) - React components and hooks library with native dark theme support focused on usability, accessibility and developer experience
 ## Preact
 * [Rocket.Chat.Livechat](https://github.com/RocketChat/Rocket.Chat.Livechat) - New Livechat client written in Preact
 ## Flutter
